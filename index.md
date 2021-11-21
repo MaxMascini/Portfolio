@@ -11,7 +11,7 @@ My name is Max Mascini, I am currently 21 years old and a student at Dalhousie U
   - Seaborn Graphing Examples: [1](Bias_RTs.png), [2](Error-rates.png), [3](RT-distribution.png)
 - [Current Project](https://github.com/Skr0ut/3131-3505-Data)
 
-### Certificates:
+### [DataCamp](datacamp.com) Certificates:
 - [Pandas Data Manipulation](Data Manipulation with Pandas.pdf)
 - [Experimental Design](Experimental Design.pdf)
 - [Exploratory Data Analysis](Exploratory data Analysis.pdf)
