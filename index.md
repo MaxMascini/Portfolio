@@ -10,4 +10,4 @@ Email: [Mascini.max@dal.ca](mailto:mascini.max@dal.ca)
 
 ### Code Snippets/Graphics:
 - [Data Cleaning](Data_cleaning.md)
-- [Seaborn Graph Examples](Bias_RTs.png)
+- [Seaborn Graph Examples](Bias_RTs.png, Error-rates.png, RT-distribution.png)
