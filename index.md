@@ -9,5 +9,5 @@ My name is Max Mascini, I am 21 years old and currently a student at Dalhousie U
 Email: [Mascini.max@dal.ca](mailto:mascini.max@dal.ca)
 
 ### Projects/Code Snippets:
-- [Data Cleaning](Data cleaning.md)
+- [Data Cleaning](Data_cleaning.md)
 - [Seaborn Graphing]()
