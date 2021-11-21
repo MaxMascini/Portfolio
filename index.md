@@ -1,8 +1,9 @@
 
 ### About Me
-Hello and welcome to my portfolio! 
-My name is Max Mascini, I am currently a student at Dalhousie University studying psychology in pursuit of a BSc.
-I also have an interest in statistics and data manipulation!
+Hello and welcome to my coding and data manipulation portfolio!
+
+My name is Max Mascini, I am 21 years old and currently a student at Dalhousie University studying for my BSc of psychology.
+
 
 ### Contact Information
 Email: [Mascini.max@dal.ca](mailto:mascini.max@dal.ca)
