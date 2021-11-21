@@ -1,4 +1,3 @@
-
 ### About Me
 Hello and welcome to my coding and data manipulation portfolio!
 
