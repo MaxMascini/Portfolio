@@ -4,7 +4,7 @@ Email: [Mascini.max@dal.ca](mailto:mascini.max@dal.ca)
 ### About Me
 Hello and welcome to my coding and data manipulation portfolio!
 
-My name is Max Mascini, I am currently 21 years old and a student at Dalhousie University studying for my BSc of psychology.
+My name is Max Mascini, I am currently 21 years old and a student at Dalhousie University studying for my BSc in psychology.
 
 ### Code Snippets/Graphics:
 - [Data Cleaning](Data_cleaning.md)
