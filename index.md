@@ -6,10 +6,7 @@ My name is Max Mascini, I am currently 21 years old and a student at Dalhousie U
 
 ### Code Snippets/Graphics:
 - [Data Cleaning](Data_cleaning.md)
-  - Seaborn Graph Examples:
-    - [1](Bias_RTs.png)
-    - [2](Error-rates.png)
-    - [3](RT-distribution.png)
+  - Seaborn Graph Examples: [1](Bias_RTs.png), [2](Error-rates.png), [3](RT-distribution.png)
 - [Current Project](https://github.com/Skr0ut/3131-3505-Data)
 
 
