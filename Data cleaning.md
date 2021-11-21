@@ -1,3 +1,4 @@
+```markdown
 # Import Data from CSV
 df = pd.read_csv('https://raw.githubusercontent.com/Skr0ut/Portfolio-1/main/Data.csv?token=AWRQD5K6OVZNAE5XWO6EKBTBUD5NI')
 
@@ -22,3 +23,4 @@ x = (np.where(~df['rt'].between(200,1000, inclusive=False)))
 y = (np.where(df['rt'].between(200,1000, inclusive=False)))
 print(df.iloc[x]#.describe())
 print(df.iloc[y]#.describe())
+```
