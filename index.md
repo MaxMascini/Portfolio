@@ -10,4 +10,4 @@ Email: [Mascini.max@dal.ca](mailto:mascini.max@dal.ca)
 
 ### Projects/Code Snippets:
 - [Data Cleaning](Data_cleaning.md)
-- [Seaborn Graphing]()
+- [Seaborn Graph Examples]()
