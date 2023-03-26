@@ -1,5 +1,6 @@
 ### Max Mascini
 [Mascini.max@dal.ca](mailto:mascini.max@dal.ca)
+
 Hello, my name is Max and welcome to my coding and data manipulation portfolio!
 
 I am an undergraduate student currently completing my BSc in Neuroscience at Dalhousie University in Nova Scotia.
