@@ -1,12 +1,10 @@
 ## Max Mascini's Portfolio
 ### About Me
-Hello and welcome to my coding and data manipulation portfolio!
+Hello, my name is Max and welcome to my coding and data manipulation portfolio!
 
-My name is Max Mascini, I am an undergraduate student completing my BSc in Neuroscience and Dalhousie University.
-I have a keen interests in neurotechnology, brain-computer interfacing, machine learning, and classification.
-
-I currently my experience is mostly in Python and R:
-- Python libraries I have experience with: numpy, pandas, scikit-learn, MNE
+I am an undergraduate student currently completing my BSc in Neuroscience at Dalhousie University in Nova Scotia.
+I am very interested in neurotechnology, brain-computer interfacing, machine learning, and classification. 
+Currently, I am doing an independent project investigating different linear classifiers' performance using data collected with a novel hybrid BCI paradigm. The goal is to give general advice on the differences that well-known linear classification algorithms can have on performance across different stimulus conditions and participants to improve BCI performance moving forward. 
 
 ### Code Snippets/Graphics:
 - [Data Cleaning](Data_cleaning.md)
