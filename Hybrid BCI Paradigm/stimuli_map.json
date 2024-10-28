@@ -1,0 +1,50 @@
+{
+ "0": {
+  "coordinates": [
+   0.0,
+   8.0
+  ],
+  "frequency": 12.63,
+  "frames": 19.0
+ },
+ "1": {
+  "coordinates": [
+   6.9282,
+   4.0
+  ],
+  "frequency": 10,
+  "frames": 24.0
+ },
+ "2": {
+  "coordinates": [
+   6.9282,
+   -4.0
+  ],
+  "frequency": 12,
+  "frames": 20.0
+ },
+ "3": {
+  "coordinates": [
+   0.0,
+   -8.0
+  ],
+  "frequency": 10.43,
+  "frames": 23.0
+ },
+ "4": {
+  "coordinates": [
+   -6.9282,
+   -4.0
+  ],
+  "frequency": 11.43,
+  "frames": 21.0
+ },
+ "5": {
+  "coordinates": [
+   -6.9282,
+   4.0
+  ],
+  "frequency": 10.91,
+  "frames": 22.0
+ }
+}
